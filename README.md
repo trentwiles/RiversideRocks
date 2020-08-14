@@ -12,4 +12,6 @@ https://riverside.rocks/contact
 <div align="center">
 <img src="http://www.baltana.com/file/16376/700x394/16:9/white-background-hq-desktop-wallpaper-16574_1412432241.jpg" height="60px" width="120" /><img src="http://www.baltana.com/file/16376/700x394/16:9/white-background-hq-desktop-wallpaper-16574_1412432241.jpg" height="60px" width="120" /><img src="https://github.com/devicons/devicon/raw/master/icons/apache/apache-plain.svg" height="60px" width="120px"/><img src="https://github.com/devicons/devicon/raw/master/icons/git/git-plain.svg" height="60px" width="120px"/><img src="https://github.com/devicons/devicon/raw/master/icons/linux/linux-plain.svg" height="60px" width="120px"/><img src="https://github.com/devicons/devicon/raw/master/icons/ssh/ssh-original.svg" height="60px" width="120px"/>
 </div>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RiversideRocks&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiversideRocks&layout=compact" />
+
+*Note, most of my PHP work is in private repos.*
