@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=RiversideRocks)
 <img src="https://riverside.rocks/uploads/aG93ZGll/readme.png" />
 
 I enjoy doing we development and working with PHP. I have quite a few neat projects! If you would like to contact me, please visit my website:
