@@ -1,5 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=RiversideRocks)
-<img src="https://riverside.rocks/uploads/aG93ZGll/readme.png" />
+<img src="https://riverside.rocks/assets/serve/production/app/5f9b412f1e11c.png" />
 
 I enjoy doing we development and working with PHP. I have quite a few neat projects! If you would like to contact me, please visit my website:
 https://riverside.rocks/contact
